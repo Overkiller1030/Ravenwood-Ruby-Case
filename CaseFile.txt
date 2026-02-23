@@ -1,0 +1,100 @@
+
+
+*Case File: Ravenwood Ruby*
+
+_Pembroke Manor Map_:
+
+          ________________________________________________________________
+         |                             |                      |           |
+         |          *Ballroom*         |       *Kitchen*      |   *Guest  |
+         |_____________________________|                      |   Room*   |
+         |                             |        *Dining       |           |
+         |          *Library*          |         Room*        |           |
+         |_____________________________|______________________|           |
+         |                             |                      |           |
+         |          *Entrance*         |       *Study*        |           |
+         |_____________________________|______________________|           |
+         |                             |                      |           |
+         |          *Hallway*          |      *Conservatory*  |           |
+         |_____________________________|______________________|___________|
+
+_Outside Areas_:
+
+      ________________
+     |                |
+     |   *Gardens*    |
+     |________________|
+          |    |
+          |    |
+          |    |
+  ___________________
+ |                   |
+ |      *Lake*       |
+ |___________________|
+*Pembroke Manor Description*:
+
+ - _Location_: Ravenwood, England
+ - _Architecture_: Gothic-style mansion
+ - _Size_: Spacious, with multiple wings and levels
+ - _Features_: Grand entrance hall, library, ballroom, conservatory
+ - _Surroundings_: Extensive gardens, wooded areas, and a nearby lake
+ - _Rumors_: Said to be haunted by the ghost of a former occupant, with hidden passages and secret rooms
+
+*Pembroke Manor History*:
+
+   Pembroke Manor has a rich and storied past, dating back to the 19th century when it was built by the Pembroke family.
+   Over the years, it has served as a symbol of wealth, prestige, and power, witnessing numerous events and gatherings of the aristocracy.
+   The manor has weathered wars, economic downturns, and societal changes, yet it remains standing as a testament to the legacy of its builders.   Many tales and legends surround the manor, adding to its mystique and allure.
+
+*Description of the Ravenwood Ruby*:
+
+ - _Name_: Ravenwood Ruby
+ - _Description_: A rare and exquisite gemstone, known for its deep red color and flawless clarity. The Ravenwood Ruby is said to be as valuable as it is mysterious, with a history shrouded in myth and legend. According to Pembroke family lore, the ruby was acquired by an ancestor on a journey to distant lands, where it was rumored to possess magical properties. Over the years, the ruby has been passed down through generations, serving as a symbol of power and prosperity for the Pembroke family.
+ - _Current Status_: Missing, believed to have been stolen from Pembroke Manor's Study Room under mysterious circumstances. Its disappearance has cast a shadow over the manor and sparked a desperate search for its whereabouts.
+
+*Guest Profiles*:
+
+1. _Sir Reginald Pembroke_:
+   - *Relationship*: Patriarch of the Pembroke family
+   - *Personality*: Authoritative, traditional, protective of his family
+   - *Background*: Inherited Pembroke Manor from his ancestors, known for his philanthropy
+
+2. _Lady Evelyn Pembroke_:
+   - *Relationship*: Wife of Sir Reginald Pembroke
+   - *Personality*: Charismatic, sociable, with a hint of mystery
+   - *Background*: Married Sir Reginald Pembroke for his wealth, rumored to have a colorful past
+
+3. _Lord Edward Pembroke_:
+   - *Relat
+   ionship*: Son of Sir Reginald and Lady Evelyn Pembroke
+   - *Personality*: Charming, charismatic, but reckless and impulsive
+   - *Background*: Known for his extravagant lifestyle and gambling habits, often at odds with his father's expectations
+
+4. _Miss Victoria Pembroke_:
+   - *Relationship*: Daughter of Sir Reginald and Lady Evelyn Pembroke
+   - *Personality*: Independent, passionate, with a strong sense of justice
+   - *Background*: Estranged from her family due to her non-conformist beliefs, returned to Pembroke Manor for the first time in years
+
+*Staff Member Profiles*:
+
+1. _Butler_:
+   - *Role*: Manor's head butler
+   - *Appearance*: Impeccably dressed in a traditional butler uniform
+   - *Background*: Loyal servant of the Pembroke family for decades, known for his discretion and efficiency
+
+2. _Housekeeper_:
+   - *Role*: Head housekeeper
+   - *Appearance*: Neat and tidy, with a no-nonsense demeanor
+   - *Background*: Overseeing the cleanliness and organization of Pembroke Manor for years, respected by the staff
+
+3. _Gardener_:
+   - *Role*: Manor's gardener
+   - *Appearance*: Wearing gardening attire, with dirt-stained hands and a friendly smile
+   - *Background*: Tending to the extensive gardens of Pembroke Manor with dedication and care, knowledgeable about plants and landscaping
+
+4. _Cook_:
+   - *Role*: Manor's chef or in the kitchen
+   - *Background*: Master of culinary arts, responsible for preparing exquisite meals for the Pembroke family and their guests
+
+
+Make sure to scroll all the way to the top of the case file! You might not be seeing the whole thing!5
